@@ -11,7 +11,7 @@ public class Main
 	{
 		say();
 		Hello hello = new Hello();
-		hello.say("hello world");
+		hello.say();
 	}
 }
 
