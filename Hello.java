@@ -1,9 +1,9 @@
 package studentA
 
 public class Hello {
-	public void say()
+	public void say(String msg)
 	{
-		System.out.println("hello");
+		System.out.println(msg);
 	}
 }
 
